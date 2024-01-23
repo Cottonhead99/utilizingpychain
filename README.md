@@ -1,3 +1,3 @@
 # utilizingpychain
 
-## in the warmpu , we will be running a blockchain ledger, and running 
+## in the warm up  , we will be running a blockchain ledger, and running 
